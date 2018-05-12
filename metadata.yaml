@@ -13,6 +13,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16755#Reis-door-Griekenland--13-De-Aarde-en-haar-Volken-1887
 gutenberg_bookshelf: De Aarde en haar Volken
 gutenberg_issued: '2005-09-26'
 gutenberg_type: Text
